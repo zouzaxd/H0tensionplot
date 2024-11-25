@@ -1,49 +1,51 @@
-Year,$H_0$,Erro($\pm$),Methods,Authors
-2020,67.27,0.6,Planck18,Aghanim et al.
-2020,73.5,5.3,lens,Baxter et al.
-2020,67.36,0.54,Planck18+lens,Aghanim et al.
-2020,67.9,1.5,ACT20,Aiola et al.
-2020,67.6,1.1,ACT20+WMAP9,Aiola et al.
-2021,68.8,1.5,SPT18,Dutcher et al.
-2021,67.49,0.53,Planck18+SPT18+ACT20,Balkenhol et al.
-2020,68.5,2.2,BOSS DDR12+BBN,D’Amico et al.
-2020,67.9,1.1,BOSS+BBN,Ivanov et al.
-2020,69.6,1.8,eBOSS+Planck18,Pogosian et al.
-2021,67.35,0.97,BOSS+eBOSS+BBN,Alam et al.
-2021,65.6,3.4,BOSS DR12+BAO,Philcox et al.
-2021,70.6,3.7,BOSS DR12+BAO+lens,Philcox et al.
-2022,69.6,4.1,BOSS+BBN,Philcox et al.
-2022,65.0,3.9,BOSS+BBN+lens,Philcox et al.
-2023,67.65,0.44,Planck18+BAO,Bernui et al.
-2023,67.6,0.43,Planck18+BAO+lens,Bernui et al.
-2024,68.3,1.1,ACT20+BAO+BBN,Madhavacheril et al.
-2024,68.1,1.0,ACT20+BAO+BBN+Planck18,Madhavacheril et al.
-2024,68.53,0.8,DESI+BBN,Adame et al.
-2024,68.52,0.62,DESI+BBN+$	heta_*$,Adame et al.
-2024,67.97,0.38,DESI+ACT20+Planck18+lens,Adame et al.
-2020,75.1,3.8,Tully-Fisher relation,Schombert et al.
-2020,73.9,3.0,Maser,Pesce et al.
-2020,69.6,2.5,TRGB+SNe Ia,Freedman et al.
-2020,74.2,1.6,Gravitational lens,Millon et al.
-2020,75.8,5.2,SNe II,de Jaeger et al.
-2021,72.1,2.0,TRGB+SNe Ia,Soltis et al.
-2021,71.5,1.8,TRGB+SNe Ia,Anand et al.
-2021,68.0,12.0,GWTC-3,Abbott et al.
-2021,73.6,1.7,Gravitational lens,Qi et al.
-2021,70.5,5.75,SBF+SNe Ia,Khetan et al.
-2021,73.3,3.1,SBF+SNe Ia,Blakeslee et al.
-2021,74.3,1.45,Cepheids+SNe Ia,Camarena and Marra
-2021,73.2,1.3,Cepheids+SNe Ia,Riess et al.
-2022,73.04,1.04,Cepheids+SNe Ia,Riess et al.
-2022,72.53,0.99,Cepheids+TRGB+SNe Ia,Riess et al.
-2022,73.2,1.3,Cepheids+SNe Ia,Mörtsell et al.
-2022,76.7,2.0,Cepheids,Mörtsell et al.
-2022,76.94,6.4,TRGB+SNe Ia,Dhawan et al.
-2022,75.4,3.8,SNe II,de Jaeger et al.
-2022,62.3,9.1,FRB,Hagstotz et al.
-2022,75.5,2.5,Tully-Fisher relation,Kourkchi et al.
-2022,67.0,6.3,GW170817+GWTC–3,Mukherjee et al.
-2023,71.0,3.0,FRB,Liu et al.
-2023,74.6,0.8,Tully-Fisher relation,Tully et al.
-2023,74.2,1.6,Quasar lens,Shajib et al.
-2024,72.37,2.97,Miras-SNe Ia,Huang et al.
+Year,$H_0$,+Erro,-Erro,Methods,Authors
+2024,70.39,1.4,1.4,SNe Ia directional analysis 1,Lopes et al.
+2024,72.37,2.97,2.97,Miras-SNe Ia,Huang et al.
+2023,74.2,1.6,1.6,Quasar lens,Shajib et al.
+2023,74.6,0.8,0.8,Tully-Fisher relation,Tully et al.
+2023,71.0,3.0,3.0,FRB,Liu et al.
+2022,75.4,11.0,6.0,GW170817+GWTC–3,Mukherjee et al.
+2022,75.5,2.5,2.5,Tully-Fisher relation,Kourkchi et al.
+2022,62.3,9.1,9.1,FRB,Hagstotz et al.
+2022,75.4,3.8,3.7,SNe II,de Jaeger et al.
+2022,76.94,6.4,6.4,TRGB+SNe Ia,Dhawan et al.
+2022,76.7,2.0,2.0,Cepheids,Mörtsell et al.
+2022,73.2,1.3,1.3,Cepheids+SNe Ia,Mörtsell et al.
+2022,72.53,0.99,0.99,Cepheids+TRGB+SNe Ia,Riess et al.
+2022,73.04,1.04,1.04,Cepheids+SNe Ia,Riess et al.
+2021,73.2,1.3,1.3,Cepheids+SNe Ia,Riess et al.
+2021,74.3,1.45,1.45,Cepheids+SNe Ia,Camarena and Marra
+2021,73.3,3.1,3.1,SBF+SNe Ia,Blakeslee et al.
+2021,70.5,5.75,5.75,SBF+SNe Ia,Khetan et al.
+2021,73.6,1.7,1.7,Gravitational lens,Qi et al.
+2021,68.0,12.0,8.0,GWTC-3,Abbott et al.
+2021,71.5,1.8,1.8,TRGB+SNe Ia,Anand et al.
+2021,72.1,2.0,2.0,TRGB+SNe Ia,Soltis et al.
+2020,75.8,5.2,4.9,SNe II,de Jaeger et al.
+2020,74.2,1.6,1.6,Gravitational lens,Millon et al.
+2020,69.6,2.5,2.5,TRGB+SNe Ia,Freedman et al.
+2020,73.9,3.0,3.0,Maser,Pesce et al.
+2020,75.1,3.8,3.8,Tully-Fisher relation,Schombert et al.
+2024,72.6,1.5,1.5,SNe Ia directional analysis 2,Lopes et al.
+2024,67.97,0.38,0.38,DESI+ACT20+Planck18+lens,Adame et al.
+2024,68.52,0.62,0.62,DESI+BBN+$	heta_*$,Adame et al.
+2024,68.53,0.8,0.8,DESI+BBN,Adame et al.
+2024,68.1,1.0,1.0,ACT20+BAO+BBN+Planck18,Madhavacheril et al.
+2024,68.3,1.1,1.1,ACT20+BAO+BBN,Madhavacheril et al.
+2023,67.6,0.43,0.43,Planck18+BAO+lens,Bernui et al.
+2023,67.65,0.44,0.44,Planck18+BAO,Bernui et al.
+2022,65.0,3.9,4.3,BOSS+BBN+lens,Philcox et al.
+2022,69.6,4.1,5.4,BOSS+BBN,Philcox et al.
+2021,70.6,3.7,5.0,BOSS DR12+BAO+lens,Philcox et al.
+2021,65.6,3.4,5.5,BOSS DR12+BAO,Philcox et al.
+2021,67.35,0.97,0.97,BOSS+eBOSS+BBN,Alam et al.
+2020,69.6,1.8,1.8,eBOSS+Planck18,Pogosian et al.
+2020,67.9,1.1,1.1,BOSS+BBN,Ivanov et al.
+2020,68.5,2.2,2.2,BOSS DDR12+BBN,D’Amico et al.
+2021,67.49,0.53,0.53,Planck18+SPT18+ACT20,Balkenhol et al.
+2021,68.8,1.5,1.5,SPT18,Dutcher et al.
+2020,67.6,1.1,1.1,ACT20+WMAP9,Aiola et al.
+2020,67.9,1.5,1.5,ACT20,Aiola et al.
+2020,67.36,0.54,0.54,Planck18+lens,Aghanim et al.
+2020,73.5,5.3,5.3,lens,Baxter et al.
+2020,67.27,0.6,0.6,Planck18,Aghanim et al.
